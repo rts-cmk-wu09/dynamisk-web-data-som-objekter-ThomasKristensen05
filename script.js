@@ -1,6 +1,6 @@
 let biler = {
     Nissan: "r34",
-    Mercedes: "m5",
+    BMW: "m5",
     McLaren: "p1",
     Pagani: "zonda r",
     Lamborghini: ["SVJ", "Adventadore", "Huracan"],
